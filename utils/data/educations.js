@@ -1,20 +1,15 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Diplôme Administrateur Système et Réseaux Bac +4",
+    duration: "2019 - 2020",
+    institution: "DORANCO - Paris France",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Diplôme Techicien Supérieur en Support Informatique\n" +
+        "Bac+2",
+    duration: "2018 - 2019",
+    institution: "DORANCO - Paris France",
   },
-  {
-    id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
 ]
